@@ -4,6 +4,17 @@
 
 这是一个基于 [@chenluda/CtrlC-C](https://github.com/chenluda/CtrlC-C) 项目的改进版本，主要添加了智能换行处理功能。感谢原作者提供的优秀代码基础。
 
+## 下载与安装
+
+直接下载可执行文件，无需安装Python环境：
+
+[📥 点击下载 CtrlC+C.exe](https://github.com/wupq2022/ctrlC-C/raw/main/dist/CtrlC%2BC.exe)
+
+使用方法：
+1. 下载后双击运行程序
+2. 程序会在系统托盘显示图标
+3. 无需安装，可直接使用
+
 ## 智能换行功能
 
 与原版单纯去除所有换行不同，我们实现了更智能的换行处理机制：
