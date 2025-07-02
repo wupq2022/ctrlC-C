@@ -8,12 +8,15 @@
 
 直接下载可执行文件，无需安装Python环境：
 
-[📥 点击下载 CtrlC+C.exe](https://github.com/wupq2022/ctrlC-C/raw/main/dist/CtrlC%2BC.exe)
+[📥 点击下载 CtrlC+C.zip](https://github.com/wupq2022/ctrlC-C/raw/main/dist/CtrlC%2BC.zip)
 
 使用方法：
-1. 下载后双击运行程序
-2. 程序会在系统托盘显示图标
-3. 无需安装，可直接使用
+1. 下载后解压缩zip文件
+2. 双击解压出的CtrlC+C.exe运行程序
+3. 程序会在系统托盘显示图标
+4. 无需安装，可直接使用
+
+> 注意：由于Windows安全机制，首次运行可能会提示"Windows已保护您的电脑"，这是正常现象。点击"更多信息"，然后选择"仍要运行"即可。
 
 ## 智能换行功能
 
